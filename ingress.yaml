@@ -15,4 +15,4 @@ spec:
               service:
                 name: kfirs-app
                 port:
-                  number: 30000
+                  number: 8080
